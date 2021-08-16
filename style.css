@@ -1,0 +1,61 @@
+img{
+    width: 95%;
+}
+
+code{
+    background-color:rgb(47, 49, 54);
+    font-family: 'Encode Sans Expanded', sans-serif;
+}
+
+.code{
+    width: 43%;
+    background-color:rgb(47, 49, 54);
+    font-family: 'Encode Sans Expanded', sans-serif;
+}
+
+.body{
+    background-color: white;
+}
+
+body{
+    background-color: rgb(54, 57, 63);
+    color: white;
+}
+
+.thc{
+    text-align: left;
+}
+
+.mainhead{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 147%;
+}
+
+.link{
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+}
+
+.normaltext{
+    font-family: 'Poppins', sans-serif;
+}
+
+.heading{
+    font-family: 'Mukta', sans-serif;
+}
+
+.button{
+    font-size: 113%;
+    background-color: black;
+    color: white;
+}
+
+.counter{
+    background-color: black;
+    color: white;
+}
+
+.countext{
+    font-family: 'Ubuntu', sans-serif;
+}
